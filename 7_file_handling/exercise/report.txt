@@ -1,0 +1,11 @@
+.txt
+- - - report.txt
+- - - text.txt
+- - - file.txt
+- - - text.txt
+- - - output.txt
+.py
+- - - even_lines.py
+- - - file_manipulator.py
+- - - dir_traversal.py
+- - - line_numbers.py
